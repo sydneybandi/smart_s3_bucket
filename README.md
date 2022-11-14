@@ -1,4 +1,4 @@
-This project was for a presentation at the conference around the use of s3 buckets with Analytics and Data Science. CPandas doesnt have the best connection methods to s3, so i walk through a simple importer and exporter code block for Pandas and s3 as well as spoke of the idea of a 'Smart s3 bucket' where common data tasks can be automated if you have any manual intensive or high frequency processes, using Pandas and Boto3.
+This project covers the use of s3 buckets with Analytics and Data Science. CPandas doesnt have the best connection methods to s3, so i walk through a simple importer and exporter code block for Pandas and s3 as well as spoke of the idea of a 'Smart s3 bucket' where common data tasks can be automated if you have any manual intensive or high frequency processes, using Pandas and Boto3.
 
 ## AWS s3 get csv code
     ```python 
